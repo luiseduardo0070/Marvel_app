@@ -2,6 +2,8 @@
 
 Este app consome e exibe a lista de personagens retornada pelo endpoint da Marvel.
 
+A tela de splash exibe uma intro da Marvel e é possível pular clicando na tela.
+
 Na tela principal é exibido um carrossel com os 5 primeiros personagens da lista e um ScrollView abaixo com um RecyclerView exibindo todos os personagens restantes 
 retornados pela api, ambos mostrando nome, thumbnail e descrição dos personagens, além de um SwipeRefreshLayout para recarregar a tela.
 
@@ -29,6 +31,7 @@ Todas as telas contam com acessibilidade, porém é necessário realizar algumas
   - Kotlin
   - Arquitetura MVVM
   - Coroutines
+  - ConstraintLayouts
   - Retrofit2
   - Glide
   - CardSlider
@@ -45,4 +48,3 @@ Todas as telas contam com acessibilidade, porém é necessário realizar algumas
   - Acessibilidade.
   - Layouts mais fluídos.
   - Melhorar e aumentar a cobertura de testes unitários.
-  
