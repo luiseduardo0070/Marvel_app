@@ -22,6 +22,12 @@ Todas as telas contam com acessibilidade, porém é necessário realizar algumas
 
 ![ScreenShot](https://i.imgur.com/ye2i8Hu.png) 
 
+### Vídeos dos fluxos
+
+[Fluxo feliz](https://www.youtube.com/watch?v=hvgjcoH_bFw)
+
+[Fluxo de erro](https://www.youtube.com/watch?v=vWfhn13bXjA)
+
 ### Apk
 
 [marvel_app.apk](https://drive.google.com/file/d/1-DKmo1RHCzNfsvjZ0AgtOBUQoWeN6PRD/view?usp=sharing)
