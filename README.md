@@ -51,6 +51,6 @@ Todas as telas contam com acessibilidade, porém é necessário realizar algumas
   - Exibir mais informações sobre o personagem na tela de descrição, como quadrinhos, filmes, etc.
   - Animações.
   - Imagens com mais qualidade.
-  - Acessibilidade.
+  - Melhorar acessibilidade já implementada.
   - Layouts mais fluídos.
   - Melhorar e aumentar a cobertura de testes unitários.
