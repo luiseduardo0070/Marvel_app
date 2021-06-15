@@ -30,7 +30,7 @@ Todas as telas contam com acessibilidade, porém é necessário realizar algumas
 
 ### Apk
 
-[marvel_app.apk](https://drive.google.com/file/d/1-DKmo1RHCzNfsvjZ0AgtOBUQoWeN6PRD/view?usp=sharing)
+[marvel_app.apk](https://drive.google.com/file/d/1S7mThbnBPlRttPyuHFMP08jyuYXxFDda/view?usp=sharing)
 
 ### Tecnologias/Conhecimentos utilizados:  
   - Android Studio 4.1.2
